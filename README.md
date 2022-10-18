@@ -1,5 +1,10 @@
 # Webpack bootstrap
 
-Run `npm start` to run web server on http://localhost:666
+To run local
+- `npm i`
+- `npm start`
+The server will run on http://localhost:666
 
-Run `npm build` to run build project to `build` folder
+To build project
+- `npm i`
+- `npm run build`
